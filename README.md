@@ -34,4 +34,4 @@ It is in no way affiliated with, endorsed, or officially published by OpenClassr
 
 **Alexandre Martineau**
 - [GitHub](https://github.com/alex-martineau)
-- [LinkedIn]([https://www.linkedin.com/in/alexandre-martineau-170ab973/])
+- [LinkedIn](https://www.linkedin.com/in/alexandre-martineau-170ab973/)
