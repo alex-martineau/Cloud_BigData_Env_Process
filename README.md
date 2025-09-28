@@ -1,9 +1,9 @@
 # Perform Processing in a Big Data Environment on the Cloud
 
-This repository contains deliverables created as part of Project 9 of the Data Scientist course offered by OpenClassrooms.
+This repository contains deliverables created as part of Project 9 of the Data Scientist course offered by OpenClassrooms & CentraleSupélec.
 
 ⚠️ **Important**: This repository reflects personal work carried out by the author as part of a training course.
-It is in no way affiliated with, endorsed, or officially published by OpenClassrooms.
+It is in no way affiliated with, endorsed, or officially published by OpenClassrooms or CentraleSupélec.
 
 ## 📂 Content
 
