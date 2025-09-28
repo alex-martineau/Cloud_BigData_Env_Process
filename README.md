@@ -7,14 +7,14 @@ It is in no way affiliated with, endorsed, or officially published by OpenClassr
 
 ## 📂 Content
 
-- **`Martineau_Alexandre_1_notebook_032025.ipynb`**
+- **Martineau_Alexandre_1_notebook_032025.ipynb**
 → Jupyter notebook implementing a Big Data processing chain for fruit image classification with PySpark and AWS EMR.
 - Image import and preprocessing
 - Feature extraction with MobileNetV2
 - Dimension reduction using PCA
 - Saving results (Parquet, CSV)
 
-- **`Martineau_Alexandre_3_presentation_032025.pptx`**
+- **Martineau_Alexandre_3_presentation_032025.pptx**
 → Exhibitor presentation material:
 - Context (Fruits! startup and biodiversity preservation)
 - Principles of Big Data and Cloud Computing
