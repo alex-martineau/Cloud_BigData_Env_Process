@@ -1,5 +1,5 @@
-numpy
-pandas
-pyspark
-tensorflow
-pillow
+numpy==1.26.4
+pandas==2.2.3
+pyspark==3.5.0
+tensorflow==2.15.0
+pillow==11.3.0
